@@ -1,0 +1,6 @@
+arviz.labels.NoRepeatLabeller.\_\_init\_\_
+==========================================
+
+.. currentmodule:: arviz.labels
+
+.. automethod:: NoRepeatLabeller.__init__

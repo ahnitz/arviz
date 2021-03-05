@@ -1,0 +1,6 @@
+arviz.labels.NoRepeatLabeller.make\_pp\_label
+=============================================
+
+.. currentmodule:: arviz.labels
+
+.. automethod:: NoRepeatLabeller.make_pp_label

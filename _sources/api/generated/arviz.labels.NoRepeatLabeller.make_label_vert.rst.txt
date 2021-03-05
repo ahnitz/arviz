@@ -1,0 +1,6 @@
+arviz.labels.NoRepeatLabeller.make\_label\_vert
+===============================================
+
+.. currentmodule:: arviz.labels
+
+.. automethod:: NoRepeatLabeller.make_label_vert

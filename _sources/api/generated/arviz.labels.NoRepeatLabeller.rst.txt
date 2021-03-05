@@ -1,0 +1,32 @@
+﻿arviz.labels.NoRepeatLabeller
+=============================
+
+.. currentmodule:: arviz.labels
+
+.. autoclass:: NoRepeatLabeller
+
+   
+   
+
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+
+   
+      NoRepeatLabeller.__init__
+      NoRepeatLabeller.dim_coord_to_str
+      NoRepeatLabeller.make_label_flat
+      NoRepeatLabeller.make_label_vert
+      NoRepeatLabeller.make_model_label
+      NoRepeatLabeller.make_pp_label
+      NoRepeatLabeller.model_name_to_str
+      NoRepeatLabeller.sel_to_str
+      NoRepeatLabeller.var_name_to_str
+      NoRepeatLabeller.var_pp_to_str
+   
+   
+
+   
+   
+   
